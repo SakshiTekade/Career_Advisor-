@@ -1,0 +1,1 @@
+AI based career advisor is Flask based web application. It analyzes user-provided interest and skills and matches them with best career recommendations from pre-loaded datasets. It uses machine learning for career prediction.
